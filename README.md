@@ -429,14 +429,4 @@ Añadir la función ‘moverse_menuRetry()’ en el loop del menú principal.
 Al volver a jugar no se restablecen por defecto los valores de la partida, dando un error de índice en las cartas del jugador y de la máquina.
 
 ### <span style="color:green">Solución :</span>
-Crear una función que restablezca todas las variables esenciales de la partida a por defecto y se vuelvan a generar las cartas (añadir al menú Retry)
-
-
-
-
-
-### <span style="color:red">Fallo :</span>
-El archivo de las partidas guardadas no se puede escribir (permiso denegado)
-
-### <span style="color:green">Solución :</span>
-Cambiar el componente ‘r’ (read) por el de ‘w’ (write) en el comando de ‘file.open()’
+Crear una función que restablezca todas las variables esenciales de la partida a por defecto y se vuelvan a generar las cartas (añadir al menú Retry).
