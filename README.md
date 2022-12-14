@@ -25,7 +25,7 @@ Los integrantes que lo conforman, el desarrollo del proyecto se dividirá en cua
 **IDC (Investigación y desarrollo conceptual)**
 
 
-En esta fase se procederá a buscar información sobre el funcionamiento del juego, estos datos se utilizarán para crear el pseudocódigo del programa y posteriormente 	presentarlo a la siguiente fase, los integrantes del equipo deberán identificar las reglas generales que componen el juego y hacer un esquema sobre las historias de usuario que se van a necesitar.
+En esta fase se procederá a buscar información sobre el funcionamiento del juego, estos datos se utilizarán para crear el pseudocódigo del programa y posteriormente 	presentarlo a la siguiente fase, los integrantes del equipo deberán identificar las reglas generales que componen el juego y hacer un esquema sobre los requisitos de usuario que se van a necesitar.
 
 
 
